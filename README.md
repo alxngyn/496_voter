@@ -8,8 +8,12 @@ Made by Alex
  or http://prometheus.eecs.oregonstate.edu/cs496/list.jsp?rtype=T
  or http://prometheus.eecs.oregonstate.edu/cs496/list.jsp?rtype=L
 3. Open Chrome Dev Cools
+>
+> Open / switch from inspect element mode and browser window  
+> Windows: Ctrl + Shift + C  
+> Mac: Cmd + Shift + C
 4. Go to console tab
 5. Copy and paste code and hit enter
-6. repeat 2-5 for D, T, and L rtypes
+6. repeat steps 2-5 for the other rtypes
 
 7. Check Dashboard for votes given count

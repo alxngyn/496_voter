@@ -11,7 +11,7 @@ Made by Alex
 3. Open Chrome Dev Cools
 4. Go to console tab
 5. Copy and paste code and hit enter
-6. repeat 2-5 for D, T, and L rtypes
+6. repeat 2-5 for the other types
 
 7. Check Dashboard for votes given count
 */
