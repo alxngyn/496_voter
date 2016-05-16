@@ -11,7 +11,7 @@ Made by Alex
 >
 > Open / switch from inspect element mode and browser window  
 > Windows: Ctrl + Shift + J  
-> Mac: Cmd + Shift + J
+> Mac: Cmd + Opt + J
 4. Go to console tab
 5. Copy and paste code and hit enter
 6. repeat steps 2-5 for the other rtypes
